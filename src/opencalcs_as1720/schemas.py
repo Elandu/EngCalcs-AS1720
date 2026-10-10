@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: AGPL-3.0-only
+
 """Strict JSON schemas for the public calculation inputs and outputs."""
 
 from copy import deepcopy

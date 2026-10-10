@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: AGPL-3.0-only
+
 """Reviewed edition metadata and selected tabular design values."""
 
 from dataclasses import dataclass
